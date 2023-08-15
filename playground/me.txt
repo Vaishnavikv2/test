@@ -1,5 +1,0 @@
-{{#user}
-Name: Vaishnavi
-Skills: C++,Html,CSS,Javascript,Next.js,Machine Learning
-Email: vaishnavi.kv2@gmail.com
-{{/user}}
